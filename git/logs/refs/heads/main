@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 597afcf07cfa208fafc6cfb155c2a0f908215491 jiwitesh <jiwitesh05nov@gmail.com> 1604658530 +0530	branch: Created from master
+597afcf07cfa208fafc6cfb155c2a0f908215491 0a74cde46e1510f62a5a9f37dfd67d83fd326fd6 jiwitesh <jiwitesh05nov@gmail.com> 1604659705 +0530	pull origin main: Merge made by the 'recursive' strategy.
+0a74cde46e1510f62a5a9f37dfd67d83fd326fd6 9e109b98c42a5b03c0dce139f3c2d995468ab89c jiwitesh <jiwitesh05nov@gmail.com> 1604837725 +0530	commit: added the file for running locally without api
+9e109b98c42a5b03c0dce139f3c2d995468ab89c 0722416e3754d6ce76a1652c0fa55c76efe3e86e jiwitesh <jiwitesh05nov@gmail.com> 1604837911 +0530	commit: updated requirements.txt

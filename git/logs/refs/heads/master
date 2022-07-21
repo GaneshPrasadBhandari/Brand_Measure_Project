@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 74596dd578e27f5f36e7bfd110b2cfc69a4a35fc jiwitesh <jiwitesh05nov@gmail.com> 1604647893 +0530	commit (initial): Intial commit
+74596dd578e27f5f36e7bfd110b2cfc69a4a35fc 555571ed6873e47bc46233cfe291fa9ed1754485 jiwitesh <jiwitesh05nov@gmail.com> 1604656626 +0530	commit (merge): made basic changes
+555571ed6873e47bc46233cfe291fa9ed1754485 1d0dddc0c91ed6ab2f2d3077c6c08276ce0e30e7 jiwitesh <jiwitesh05nov@gmail.com> 1604656702 +0530	commit: made basic changes
+1d0dddc0c91ed6ab2f2d3077c6c08276ce0e30e7 597afcf07cfa208fafc6cfb155c2a0f908215491 jiwitesh <jiwitesh05nov@gmail.com> 1604658440 +0530	commit: added keyword spotting module
